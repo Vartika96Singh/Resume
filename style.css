@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 2px solid brown;
+    box-shadow: 2px solid brown;
+    background-color: lightblue;
+    
+    min-height: 70vh;
+}
+h2,p, table,h1, ol li h3{
+    margin: 20px;
+}
